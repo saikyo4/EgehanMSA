@@ -1,0 +1,9 @@
+README.md
+setup.py
+EgehanMSA.egg-info/PKG-INFO
+EgehanMSA.egg-info/SOURCES.txt
+EgehanMSA.egg-info/dependency_links.txt
+EgehanMSA.egg-info/requires.txt
+EgehanMSA.egg-info/top_level.txt
+egehanmsa/__init__.py
+egehanmsa/aligner.py
